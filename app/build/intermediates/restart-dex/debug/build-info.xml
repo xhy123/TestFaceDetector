@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="18"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="11836894384455"
+    token="-3060113719390341449"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="119" />
+    <task
+        name="instant-run-dex"
+        duration="420" />
+    <task
+        name="instant-run-transform"
+        duration="15" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="E:\CaiShengHuo\Android Project\TestFaceDetector1\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="9067465410386"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\CaiShengHuo\Android Project\TestFaceDetector1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="11789622677829"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\CaiShengHuo\Android Project\TestFaceDetector1\app\build\intermediates\builds\debug\11789622677829\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="11836894384455"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\CaiShengHuo\Android Project\TestFaceDetector1\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

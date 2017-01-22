@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sun Jan 22 11:46:07 CST 2017
+1.base=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+1.file=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+2.base=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.file=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=E\:\\CaiShengHuo\\Android Project\\TestFaceDetector1\\app\\build\\intermediates\\res\\resources-debug.ap_

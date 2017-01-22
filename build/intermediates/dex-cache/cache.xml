@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\CaiShengHuo\Android Project\TestFaceDetector1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c82116a4d9ffb7034cfeb3b2575e2d8d38f18da">
+        <dex dex="E:\CaiShengHuo\Android Project\TestFaceDetector1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_68662c70f4306f9be991f3e7f0697a08f46a52d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\CaiShengHuo\Android Project\TestFaceDetector1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_ccf1976f2ed10671c81cbe19f136351b0d5865ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\CaiShengHuo\Android Project\TestFaceDetector1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b16d6992f6566d62a581a065b86367646e9369c3">
+        <dex dex="E:\CaiShengHuo\Android Project\TestFaceDetector1\app\build\intermediates\pre-dexed\debug\instant-run_9eb21487a6f031094302dc8e4902e3f74bf4759a.jar" />
+    </item>
+
+</items>
